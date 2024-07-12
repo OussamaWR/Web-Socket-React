@@ -1,0 +1,1 @@
+const DEFAULT_NAME="GYM WEB"
